@@ -1,7 +1,10 @@
 # Algorithms
 My description and understanding of algorithms<br>
 This includes link to Wikipedia and C# code example I implement <br>
-You can also check some aswers to hackerrank questions by clicking [here](https://github.com/mkhodary/hackerrank)
+You can also check some aswers to hackerrank questions by clicking [here](https://github.com/mkhodary/hackerrank)<br>
+For complexity chart matrix, you can check [http://bigocheatsheet.com/](http://bigocheatsheet.com/)
+
+
 
 # Sorting Algorithms
 ## 1. Bubble Sorting
