@@ -1,5 +1,7 @@
-# algorithms
-My description and understanding of algorithms
+# Algorithms
+My description and understanding of algorithms<br>
+This includes link to Wikipedia and C# code example I implement.
+You can also check some aswers to hackerrank questions by clicking [here](https://github.com/mkhodary/hackerrank)
 
 # Sorting Algorithms
 ## 1. Bubble Sorting
