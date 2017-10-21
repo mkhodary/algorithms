@@ -1,6 +1,6 @@
 # Algorithms
 My description and understanding of algorithms<br>
-This includes link to Wikipedia and C# code example I implement.
+This includes link to Wikipedia and C# code example I implement <br>
 You can also check some aswers to hackerrank questions by clicking [here](https://github.com/mkhodary/hackerrank)
 
 # Sorting Algorithms
